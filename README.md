@@ -8,7 +8,7 @@ This project is a responsive clone of the Accredian Enterprise landing page buil
 (Add your deployed Vercel link here)
 
 ## 📂 GitHub Repository
-https://github.com/YOUR_USERNAME/accredian-clone
+https://github.com/guptatanuja2005-eng/accredian-clone
 
 ---
 
