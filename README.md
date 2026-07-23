@@ -32,23 +32,11 @@ npm run dev
 ### 5. Open in browser
 http://localhost:3000
 
-🧠 Approach Taken
--Used component-based architecture for better code organization
--Divided UI into reusable components:
--Navbar
--Hero Section
--Form Section
--Footer
--Followed a step-by-step development process:
-1.Initialized Next.js project
-2.Created folder structure
-3.Built UI components
-4.Integrated form with backend API
-5.Added responsive design using Tailwind CSS
--Focused on:
--Clean and readable code
--Reusability
--Responsive design (mobile + desktop)
+## 🧠 Approach
+- Built reusable components (Navbar, Hero, Features, Form, Footer)
+- Implemented API route for form submission
+- Focused on clean UI and responsiveness
+
 
 🤖 AI Usage Explanation
 
