@@ -5,7 +5,7 @@ This project is a responsive clone of the Accredian Enterprise landing page buil
 ---
 
 ## 🔗 Live Demo
-(Add your deployed Vercel link here)
+https://accredian-clone-roan.vercel.app/
 
 ## 📂 GitHub Repository
 https://github.com/guptatanuja2005-eng/accredian-clone
